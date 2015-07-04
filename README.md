@@ -2,11 +2,11 @@
 
 Performance benchmarks for various TodoMVC implementations
 
-##Run
-* npm install -g simple-server
-* navigate todomvc-benchmark folder
-* simple-server public 8000
-* open localhost:8000/index.html
+##Runing on your locale
+* Run: npm install -g simple-server
+* Navigate: todomvc-benchmark folder
+* Run: simple-server public 8000
+* Open: localhost:8000/index.html
 
 ## Results 
 
