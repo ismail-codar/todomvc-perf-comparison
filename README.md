@@ -3,6 +3,7 @@
 Performance benchmarks for various TodoMVC implementations
 
 ##Runing on your locale
+* Download all codes and extract
 * Run: npm install -g simple-server
 * Navigate: todomvc-benchmark folder
 * Run: simple-server public 8000
@@ -25,6 +26,6 @@ Ember is the slowest overall; Angular, React and Backbone are trailing too.
 ### Firefox 31, OS X
 ![Firefox](Firefox.png)
 
-### IE9
+### IE11
 
-![IE9](IE9.png)
+![IE11](IE11.png)
