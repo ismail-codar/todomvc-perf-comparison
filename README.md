@@ -25,15 +25,6 @@ Ember is the slowest overall; Angular, React and Backbone are trailing too.
 ### Firefox 31, OS X
 ![Firefox](Firefox.png)
 
-### Safari 6.1, OS X
-![Safari](Safari.png)
+### IE9
 
-### Chrome 36, Windows Vista
-
-![Vista-Chrome](Vista-Chrome.png)
-
-### IE9, Windows Vista
-
-Note that the Angular Benchmark is not working ATM, in IE9, hence the ridiculous score.
-
-![Vista-IE9](Vista-IE9.png)
+![IE9](IE9.png)
