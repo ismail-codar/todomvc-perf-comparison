@@ -2,6 +2,12 @@
 
 Performance benchmarks for various TodoMVC implementations
 
+##Run
+1- npm install -g simple-server
+2- navigate todomvc-benchmark folder
+3- simple-server public 8000
+4- open localhost:8000/index.html
+
 ## Results 
 
 *  OS X 10.8: MacBook Air,Core i5 @1.8GHz)
